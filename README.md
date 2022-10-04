@@ -1,2 +1,5 @@
 # vswebsite
-Created with CodeSandbox
+
+under construction 
+
+building with spline , figma , vanillats
